@@ -1,6 +1,7 @@
 # Memechat QA Automation Suite
 
 End-to-end mobile test automation for Memechat that validates the critical user journey:
+  
   1.creating (test) Gmail accounts
   
   2.signing up inside the app
