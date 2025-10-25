@@ -12,7 +12,9 @@ End-to-end mobile test automation for Memechat that validates the critical user 
 
 Language: Python
 Mobile Drivers: Appium (Android), ADB utilities
+
 Web/Signup Helpers: Selenium (for web email verification pages if needed)
+
 Test Runner: pytest
 Patterns: Page Object Model (POM), data-driven tests
 Reporting: Allure (or pytest-html)
